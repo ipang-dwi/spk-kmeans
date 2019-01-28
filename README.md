@@ -1,4 +1,7 @@
 # spk-kmeans
+
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 SPK mempergunakan clustering dengan metode KMeans - www.firstplato.com
 
 > Demo dan preview, cekidot https://www.youtube.com/watch?v=gCKmdoA1uns&t=15s dan https://lab.firstplato.com/kmeans
